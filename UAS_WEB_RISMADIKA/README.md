@@ -15,10 +15,10 @@
 # tampilan web
 
 * Dashboard :
-![p](ss/Screenshot%20(72).png.)
+![p](ss/risma.png)
 
 * Daftar warga :
-![p](ss/Screenshot%20(73).png)
+![p](ss/dika.png)
 
 * Daftar Kas Warga :
-![p](ss/Screenshot%20(74).png)
+![p](ss/alvi.png)
